@@ -12,4 +12,4 @@ const Meta = () => (
     
 )
 
-export default Meta
+export default Meta;
